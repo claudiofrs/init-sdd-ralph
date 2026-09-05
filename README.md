@@ -5,7 +5,7 @@
 ### Adopting end-to-end Agile product development workflow into Spec-driven Development approach with Ralph
 #### Principles
 - Context management, not prompt engineering
-- Structured, continuous development with any AI tools
+- Structured, continuous development with AI tools
 - Focus on workflow in a real Agile team: Ideation, Product research and understanding, Backlog grooming, Prioritization, Design specification & handover, Technical planning, Development & testing
 #### Anti-principles
 - Lack of vision, north star goals, and untestable success criteria
