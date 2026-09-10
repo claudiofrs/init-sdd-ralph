@@ -1,5 +1,5 @@
 # init-sdd-ralph 
-##### version 1.0
+
 ---
 
 ### Adopting end-to-end Agile product development workflow into Spec-driven Development approach with Ralph
