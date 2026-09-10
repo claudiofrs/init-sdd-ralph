@@ -9,6 +9,7 @@
 - Focus on workflow in a real Agile team: Ideation, Product research and understanding, Backlog grooming, Prioritization, Design specification & handover, Technical planning, Development & testing
 #### Anti-principles
 - Lack of vision, north star goals, and untestable success criteria
+- No human involvement: the absence of product, user, and market research, prd wasn't grilled, no user acceptance test and code security review
 
 #### Why is this important
 - Agile was made to orchestrate a mess, but still deliver results
