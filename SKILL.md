@@ -111,6 +111,14 @@ unless the user explicitly asks — it's a long-running autonomous loop that com
 their behalf; that's their call to kick off, not something to do silently as a side effect of
 running this skill.
 
+If the user also wants the epic's *code* implemented now, by you rather than by
+`ralph.sh` — first check whether the current branch already is `<branchName>` (the same
+value just written into `prd.json`), e.g. `git branch --show-current`. If it already is,
+keep working there; don't create or switch branches again. If it isn't yet, `git checkout
+-b <branchName>` before making any code edits — mirroring step 3 of
+`scripts/ralph/CLAUDE.md`. Don't implement the epic on the wrong branch and move it
+afterward as cleanup — check, then branch if needed, then edit.
+
 ---
 
 ## Story rules (apply whenever writing or converting a `prd.json`)
